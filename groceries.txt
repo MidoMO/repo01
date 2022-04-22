@@ -5,3 +5,4 @@
 5 beans
 8 berries
 10 breads
+20 breads
