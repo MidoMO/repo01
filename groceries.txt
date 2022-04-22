@@ -3,6 +3,4 @@
 1 fennel bulb
 3 botatoes 
 5 beans
-8 berries
-10 breads
-20 breads
+1 cerials
